@@ -93,7 +93,7 @@ $SVG-URL: true !default;
 			@return $uri-string;
 		}
 	}
-	@return null
+	@return null;
 
 }
 
